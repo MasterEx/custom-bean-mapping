@@ -1,0 +1,9 @@
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/reflection/ReflectionMain.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/reflection/ReflectionMapper.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/instrumentation/AbstractMapper.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/staticcodegeneration/StaticCodeGenerationMapper.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/beans/TargetBean.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/staticcodegeneration/StaticCodeGenerationMain.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/beans/SourceBean.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/instrumentation/InstrumentationMain.java
+/home/master/NetBeansProjects/CustomMappingParent/CustomMapping/src/main/java/masterex/github/com/custommapping/instrumentation/InstrumentationMapper.java

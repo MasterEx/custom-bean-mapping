@@ -1,0 +1,10 @@
+masterex/github/com/custommapping/beans/SourceBean.class
+masterex/github/com/custommapping/staticcodegeneration/StaticCodeGenerationMapper.class
+masterex/github/com/custommapping/instrumentation/InstrumentationMapper.class
+masterex/github/com/custommapping/instrumentation/InstrumentationMain.class
+masterex/github/com/custommapping/reflection/ReflectionMain.class
+masterex/github/com/custommapping/staticcodegeneration/StaticCodeGenerationMapperImplementation.class
+masterex/github/com/custommapping/staticcodegeneration/StaticCodeGenerationMain.class
+masterex/github/com/custommapping/reflection/ReflectionMapper.class
+masterex/github/com/custommapping/beans/TargetBean.class
+masterex/github/com/custommapping/instrumentation/AbstractMapper.class
