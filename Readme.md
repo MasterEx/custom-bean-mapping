@@ -10,6 +10,8 @@ It is created only for demonstration purposes. It is not production ready.
 
 In general the performed mapping is based on the field/method names and it is assumed that the source and destination field types are the same.
 
+This demo has been created as a companion to this article: https://masterex.github.io/archive/2021/02/08/java-bean-mapping-in-depth.html
+
 ## Outcome
 
 The project contain a few simple main methods that can be invoked in orde to see the mapping in action.
